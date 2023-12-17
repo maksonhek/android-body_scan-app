@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Body Detection Up</string>
+    <string name ='hello_string'>хеллоу ворлд</string>
+    <string name ='start_button_layble'>продолжение следует.....</string>
+    <string name ='second_fragment_string'>молодец</string>
+    <string name ='second_button'>DA</string>
+
+</resources>
